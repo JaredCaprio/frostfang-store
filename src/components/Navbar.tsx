@@ -10,8 +10,8 @@ export function Navbar() {
     <>
       <NavbarBs sticky="top" className="bg-dark shadow-sm mb-3">
         <Container>
-          <NavbarBs.Brand to="/store" as={NavLink}>
-            <Image src="src/assets/ff-logo.png" width="200px" />
+          <NavbarBs.Brand to="/" as={NavLink}>
+            <Image src="/images/ff-logo.png" width="200px" />
           </NavbarBs.Brand>
           {/*    <Nav className="me-auto">
             <Nav.Link className="text-light" to="/" as={NavLink}>

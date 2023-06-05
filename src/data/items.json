@@ -3,24 +3,24 @@
     "id": 1,
     "name": "Odin T-Shirt",
     "price": 10.0,
-    "imgUrl": "public/images/odin-shirt.webp"
+    "imgUrl": "/images/odin-shirt.webp"
   },
   {
     "id": 2,
     "name": "Recognition Tape",
     "price": 5.0,
-    "imgUrl": "public/images/recognition-tape.jpg"
+    "imgUrl": "/images/recognition-tape.jpg"
   },
   {
     "id": 3,
     "name": "Purple Witch",
     "price": 10,
-    "imgUrl": "public/images/purple-witch.webp"
+    "imgUrl": "/images/purple-witch.webp"
   },
   {
     "id": 4,
     "name": "Garage EP CD",
     "price": 7,
-    "imgUrl": "public/images/garage-ep-cd.webp"
+    "imgUrl": "/images/garage-ep-cd.webp"
   }
 ]
